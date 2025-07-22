@@ -68,6 +68,21 @@ README.md               # Project documentation
 - Check which Pokémon are Water/Ground types
 - Find unique dual-type combos like Electric/Ice or Ghost/Normal
 - Game design ideas: See underused or overused type combinations
+```
+Enter your first type: Water
+Enter your second type: Ground
+All dual-type Water/Ground and/or Ground/Water Pokémon:
+* Wooper # 194  
+* Quagsire # 195  
+* Marshtomp # 259  
+* Swampert # 260  
+* Barboach # 339  
+* Whiscash # 340  
+* Gastrodon # 423  
+* Palpitoad # 536  
+* Seismitoad # 537  
+* Swampert # 260 (Mega Swampert)
+```
 
 ## 🎯 Future Improvements
 
