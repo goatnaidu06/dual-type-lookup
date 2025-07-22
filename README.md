@@ -64,8 +64,11 @@ All dual-type Water/Ground and/or Ground/Water Pokémon:
 ## 📁 File Structure
 
 ```
-pkmnDualTypeLookup.py   # Main script for dual-type search  
-README.md               # Project documentation  
+pkmnDualTypeLookup.py   # Main script for dual-type search
+Pokemon.csv         # CSV dataset containing Pokémon names, types, and form data  
+README.md               # Project documentation
+LICENSE.txt           # Project license
+
 ```
 
 ## 🔮 Example Use Cases
