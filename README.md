@@ -46,14 +46,19 @@ python3 pkmnDualTypeLookup.py
 You'll be prompted to enter two types:
 
 ```
-Enter your first type: fire  
-Enter your second type: dragon  
-
-Matching Pokémon:
-- Charizard (Mega Charizard X)
-- Reshiram
-- Turtonator
-...
+Enter your first type: Water
+Enter your second type: Ground
+All dual-type Water/Ground and/or Ground/Water Pokémon:
+* Wooper # 194  
+* Quagsire # 195  
+* Marshtomp # 259  
+* Swampert # 260  
+* Barboach # 339  
+* Whiscash # 340  
+* Gastrodon # 423  
+* Palpitoad # 536  
+* Seismitoad # 537  
+* Swampert # 260 (Mega Swampert)
 ```
 
 ## 📁 File Structure
