@@ -101,7 +101,7 @@ All dual-type Water/Ground and/or Ground/Water Pokémon:
 
 ## 📜 License
 
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License. See [LICENSE](LICENSE.txt) for details.
 
 ## 👨‍💻 Author
 
